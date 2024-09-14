@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7722f02a029888043a16453804abd160
+guid: a74bdcadae6e49e4db22188ca5b17fca
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,106 +110,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skins_Blue
+      name: 19_0
       rect:
         serializedVersion: 2
-        x: 26
-        y: 850
-        width: 234
+        x: 42
+        y: 17
+        width: 71
         height: 190
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7ee2b766416f0d4f85de0f820f738e4
-      internalID: -157510931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skins_0
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 832
-        width: 211
-        height: 201
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3947612e1466ff41a7de73ac6062292
-      internalID: 1152607536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkinsRightHand
-      rect:
-        serializedVersion: 2
-        x: 665
-        y: 707
-        width: 196
-        height: 318
-      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 654aa21d4408ecc4e86212f15736b05b
-      internalID: 1712588633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skins_2
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 708
-        width: 236
-        height: 155
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b410f975b387fe345b7fdbd36e421e70
-      internalID: -1004026757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LeftHand
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 742
-        width: 149
-        height: 267
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ccfc191c4a6e1f4caf78e4916fda271
-      internalID: -112452614
+      spriteID: 6a44157f154ae3d48ab7ef2fb32813be
+      internalID: 1388538084
       vertices: []
       indices: 
       edges: []
@@ -225,11 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      LeftHand: -112452614
-      SkinsRightHand: 1712588633
-      Skins_0: 1152607536
-      Skins_2: -1004026757
-      Skins_Blue: -157510931
+      19_0: 1388538084
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
