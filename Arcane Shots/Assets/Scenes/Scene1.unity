@@ -4136,7 +4136,6 @@ GameObject:
   m_Component:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
-  - component: {fileID: 519420029}
   - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
@@ -4145,14 +4144,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &519420029
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -9008,14 +8999,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 1707492227}
   speed: 5
-  health: 100
   cam: {fileID: 519420031}
   healthSlider: {fileID: 338518642}
   platformSystem: {fileID: 1009037091}
   gameFinish: {fileID: 580098247}
   GameOver: {fileID: 531023666}
-  enemiesKilled: 0
-  enemiesToBeKilled: 3
 --- !u!50 &1707492227
 Rigidbody2D:
   serializedVersion: 4

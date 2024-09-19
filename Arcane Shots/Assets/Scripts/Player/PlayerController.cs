@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -142,6 +143,7 @@ public class PlayerController : MonoBehaviour
             if (other.gameObject.GetComponent<GameFinishController>() != null)
             {
                 gameFinish.PlayerWon();
+                Destroy(this.gameObject);
             }
         }
     }
